@@ -1,0 +1,4 @@
+interface:
+  display_name: "yangao"
+  short_description: "本地完成设计稿与实现图差异检测、Canvas 标注和修复清单导出"
+  default_prompt: "Use $yangao to open the local UI fidelity inspection tool."
